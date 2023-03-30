@@ -1,5 +1,5 @@
 PKG_NAME := pypi-sphinx_theme_builder
-URL = https://files.pythonhosted.org/packages/20/65/5c87d75347c11ef8cbe9b6947d269d3ec6f7e4adffafcbc84f0031e3fa84/sphinx-theme-builder-0.2.0b1.tar.gz
+URL = https://files.pythonhosted.org/packages/95/5f/a9651c42b6a44633ef900d765e4235533e08d0ea1f1aa844f50a34e1537c/sphinx-theme-builder-0.2.0b2.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
