@@ -5,7 +5,7 @@
 #
 Name     : pypi-sphinx_theme_builder
 Version  : 0.2.0b2
-Release  : 11
+Release  : 12
 URL      : https://files.pythonhosted.org/packages/95/5f/a9651c42b6a44633ef900d765e4235533e08d0ea1f1aa844f50a34e1537c/sphinx-theme-builder-0.2.0b2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/95/5f/a9651c42b6a44633ef900d765e4235533e08d0ea1f1aa844f50a34e1537c/sphinx-theme-builder-0.2.0b2.tar.gz
 Summary  : A tool for authoring Sphinx themes with a simple (opinionated) workflow.
